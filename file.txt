@@ -1,5 +1,9 @@
 New file
 
 New line from git local
+<<<<<<< HEAD
 
 Check
+=======
+Editing to check the conflicts from local repository
+>>>>>>> refs/remotes/origin/master
