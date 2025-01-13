@@ -1,3 +1,4 @@
 New file
 
 New line from git local
+Editing to check the conflicts from local repository
