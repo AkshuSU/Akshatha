@@ -1,5 +1,3 @@
 New file
 
-New line from git local repository
-
-
+New line from git local
